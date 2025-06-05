@@ -1,0 +1,13 @@
+{
+  "name": "MWB-1",
+  "symbol": "MWB-1",
+  "description": "Limited Edition MWB NFT. Proceeds go to token liquidity.",
+  "image": "https://bafybeihty452sjpbp4dxurntton3ekeka7luiof4t6q375xpyi4f5afkdm.ipfs.dweb.link?filename=mwb%20%231.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Genesis" },
+    { "trait_type": "Utility", "value": "LP Contributor" }
+  ],
+  "seller_fee_basis_points": 500, 
+  "external_url": "https://bafybeihty452sjpbp4dxurntton3ekeka7luiof4t6q375xpyi4f5afkdm.ipfs.dweb.link?filename=mwb%20%231.png",
+  "collection": { "name": "MWB Genesis", "family": "MWB" }
+}
