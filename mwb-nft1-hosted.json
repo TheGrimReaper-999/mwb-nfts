@@ -1,0 +1,25 @@
+{
+  "name": "Milky White UMA",
+  "symbol": "MWB-UMA",
+  "description": "Relax, it's only coffee",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/TheGrimReaper-999/mwb-nfts/main/mwb-nft1.png",
+  "external_url": "https://milkywhitebitches.xyz",
+  "attributes": [],
+  "collection": { "name": "MWB Limited Editions", "family": "MWB" },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/TheGrimReaper-999/mwb-nfts/main/mwb-nft1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9vZEL7Vbkoex3nKseudjqHa5uk7rAWkgvN2Eu1xDZMMu",
+        "share": 100
+      }
+    ]
+  }
+}
